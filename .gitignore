@@ -173,3 +173,15 @@ dist
 
 # Finder (MacOS) folder config
 .DS_Store
+
+# Video Files
+*.mp4
+*.mov
+*.h264
+*.hevc
+*.vp9
+*.av1
+*.mpeg
+*.wmv
+*.flv
+*.webm
